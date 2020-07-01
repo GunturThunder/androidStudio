@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="nama">Nama</string>
+    <string name="kelamin">Kelamin</string>
+    <string name="alamat">Alamat</string>
+    <string name="simpan">SIMPAN</string>
+</resources>

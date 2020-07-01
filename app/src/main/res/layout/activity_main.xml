@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+    <EditText
+        android:id="@+id/edt_hello"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Hello World"
+        android:layout_margin="20dp"/>
+    <Button
+        android:id="@+id/btn_click"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:id="@+id/valueTur"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="kosong"
+        android:layout_margin="20dp"
+        android:gravity="center"/>
+</LinearLayout>
