@@ -3,5 +3,7 @@
     <string name="nama">Nama</string>
     <string name="kelamin">Kelamin</string>
     <string name="alamat">Alamat</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
     <string name="simpan">SIMPAN</string>
 </resources>
